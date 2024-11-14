@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq2xml", "linq2xml\linq2xml.csproj", "{96769821-21B5-49C4-8133-064A89BDDEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96769821-21B5-49C4-8133-064A89BDDEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96769821-21B5-49C4-8133-064A89BDDEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96769821-21B5-49C4-8133-064A89BDDEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96769821-21B5-49C4-8133-064A89BDDEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {820F36C1-0E2D-40B2-940C-6D8066C4BC86}
+	EndGlobalSection
+EndGlobal
